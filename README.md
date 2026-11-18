@@ -12,6 +12,7 @@
 
 <br/><br/>
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucas_Balthazar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasbalthazart/)
 [![Website Balthazar IA](https://img.shields.io/badge/Website-balthazar.ia.br-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white)](https://balthazar.ia.br)
 [![Lorendrite RPG](https://img.shields.io/badge/Plataforma-lorendrite.com.br-991B1B?style=for-the-badge&logo=dungeonsanddragons&logoColor=white)](https://lorendrite.com.br)
 [![GitHub](https://img.shields.io/badge/GitHub-lbalthazart-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lbalthazart)
@@ -107,64 +108,6 @@ Minha atuação é focada na intersecção entre engenharia de software de ponta
     </td>
   </tr>
 </table>
-
----
-
-### 🛠️ Tecnologias & Habilidades
-
-<p align="center">
-  <b>Inteligência Artificial & LLMs</b><br/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Anthropic_Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Gemini-8E75C4?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/LiteLLM_/_OpenRouter-6366F1?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Knowledge_Graphs-10B981?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Autonomous_Agents-0EA5E9?style=for-the-badge" />
-</p>
-
-<p align="center">
-  <b>Backend & APIs</b><br/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/RESTful_APIs-0284C7?style=for-the-badge" />
-</p>
-
-<p align="center">
-  <b>Frontend</b><br/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-</p>
-
-<p align="center">
-  <b>Bancos de Dados & Armazenamento</b><br/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-</p>
-
-<p align="center">
-  <b>DevOps, Infraestrutura & Ferramentas</b><br/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux_/_VPS-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
----
-
-### 📊 Estatísticas no GitHub
-
-<div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=lbalthazart&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lbalthazart&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" />
-</div>
 
 <br/>
 
